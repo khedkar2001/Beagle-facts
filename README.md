@@ -6,9 +6,5 @@ This is a simple, clean HTML project showcasing information about Beagle dogs. I
 
 🔗 [View Live Site](https://beagle-fact.netlify.app/)
 
-> Replace the link above with your actual Netlify deployment URL.
 
----
-
-## 📁 Project Structure
 
